@@ -37,24 +37,25 @@ https://youtu.be/yUGmpEjEkdk
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Screenshots
 
-## Opening Message
+### Opening Message
 <img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/opening.png" />
 
-## Contact us
+### Contact us
 <img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/contact.png" />
 
-## Work Hour
+### Work Hour
 <img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/work-hour.png" />
 
-## Menu Lists
+### Menu Lists
 <img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/menu.png" />
 
-## After Order Message
+### After Order Message
 <img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/after-order.png" />
 
-## Confirm Order
+### Confirm Order
 <img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/confirm-address.png" />
 
-## Closing Message
+### Closing Message
 <img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/thanks.png" />
