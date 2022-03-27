@@ -21,6 +21,7 @@ We also really support the SDGs (Sustainable Development Goals) at the same time
 This bot provides a couple of informations that usually being asked by the customer. So, let say in any time the seller is current inactive,
 this bot will bring out the customer to the sales of that business. So, the seller will not lost the sales of that customer. This is really important 
 cause these kind of things doesn't really happends only once in a day
+
 ## Techstack
 
 - MongoDB Atlas - Record any sales and respond from certain customers
@@ -36,3 +37,24 @@ https://youtu.be/yUGmpEjEkdk
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+
+## Opening Message
+<img src="https://github.com/customer-auto-responder/image-readme/opening.png" />
+
+## Contact us
+<img src="https://github.com/customer-auto-responder/image-readme/contact.png" />
+
+## Work Hour
+<img src="https://github.com/customer-auto-responder/image-readme/work-hour.png" />
+
+## Menu Lists
+<img src="https://github.com/customer-auto-responder/image-readme/menu.png" />
+
+## After Order Message
+<img src="https://github.com/customer-auto-responder/image-readme/after-order.png" />
+
+## Confirm Order
+<img src="https://github.com/customer-auto-responder/image-readme/confirm-address.png" />
+
+## Closing Message
+<img src="https://github.com/customer-auto-responder/image-readme/thanks.png" />
