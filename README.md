@@ -39,22 +39,22 @@ https://youtu.be/yUGmpEjEkdk
 
 
 ## Opening Message
-<img src="https://github.com/customer-auto-responder/image-readme/opening.png" />
+<img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/opening.png" />
 
 ## Contact us
-<img src="https://github.com/customer-auto-responder/image-readme/contact.png" />
+<img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/contact.png" />
 
 ## Work Hour
-<img src="https://github.com/customer-auto-responder/image-readme/work-hour.png" />
+<img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/work-hour.png" />
 
 ## Menu Lists
-<img src="https://github.com/customer-auto-responder/image-readme/menu.png" />
+<img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/menu.png" />
 
 ## After Order Message
-<img src="https://github.com/customer-auto-responder/image-readme/after-order.png" />
+<img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/after-order.png" />
 
 ## Confirm Order
-<img src="https://github.com/customer-auto-responder/image-readme/confirm-address.png" />
+<img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/confirm-address.png" />
 
 ## Closing Message
-<img src="https://github.com/customer-auto-responder/image-readme/thanks.png" />
+<img src="https://github.com/zharmedia386/customer-auto-responder/blob/main/image-readme/thanks.png" />
